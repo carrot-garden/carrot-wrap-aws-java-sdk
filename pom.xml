@@ -12,19 +12,19 @@
 
 	<groupId>com.carrotgarden.wrap</groupId>
 	<artifactId>carrot-wrap-aws-java-sdk</artifactId>
-	<version>1.3.14-build004-SNAPSHOT</version>
+	<version>1.4.1-build004-SNAPSHOT</version>
 	<packaging>bundle</packaging>
 
 	<scm>
 		<url>https://github.com/carrot-garden/carrot-wrap-aws-java-sdk</url>
 		<connection>scm:git:git://github.com/carrot-garden/carrot-wrap-aws-java-sdk.git</connection>
 		<developerConnection>scm:git:ssh://git@github.com/carrot-garden/carrot-wrap-aws-java-sdk.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>master</tag>
 	</scm>
 
 	<properties>
 
-		<amazonVersion>1.3.14</amazonVersion>
+		<amazonVersion>1.4.1</amazonVersion>
 
 		<unpackSource>target/unpack-source</unpackSource>
 
