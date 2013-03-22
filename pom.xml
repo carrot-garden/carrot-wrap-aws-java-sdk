@@ -19,7 +19,7 @@
 
 	<groupId>com.carrotgarden.wrap</groupId>
 	<artifactId>carrot-wrap-aws-java-sdk</artifactId>
-	<version>1.4.1-build004-SNAPSHOT</version>
+	<version>1.4.1-build001-SNAPSHOT</version>
 	<packaging>bundle</packaging>
 
 	<scm>
